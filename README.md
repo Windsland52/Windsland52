@@ -9,4 +9,4 @@
 WindsLand 的 GitHub 是怎么回事呢？ WindsLand 相信大家都很熟悉，但是 WindsLand 的 GitHub 是怎么回事呢，下面就让小编带大家一起了解吧~
 
 # Contact me
-[wind_land@foxmail.com](mailto:wind_land@foxmail.com)
+[winds_land@foxmail.com](mailto:winds_land@foxmail.com)
