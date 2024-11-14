@@ -5,6 +5,6 @@
 </div>
 
 <p>
-  你好，我是WindsLand，也是星梦<br>
+  你好，<br>我是WindsLand，<br>也是星梦。<br>
   正在努力学习ing...
 </p>
