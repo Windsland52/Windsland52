@@ -5,6 +5,6 @@
 </div>
 
 <p>
-  你好，<br>我是WindsLand，<br>也是星梦。<br>
+  你好，<br>我是WindsLand，<br>也是星梦。<br>MaaFramework社区开发者、<br>方舟特种队玩家<br>
   正在努力学习ing...
 </p>
