@@ -5,8 +5,8 @@
 
 <div align="center">
   <!-- 第二排（第二、三张图片） -->
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Windsland52&utcOffset=8&theme=nord_bright" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Windsland52&show_icons=true&bg_color=eceff4&title_color=434c5e&text_color=4c566a&icon_color=8fbccb&hide_border=true" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Windsland52&utcOffset=8&theme=nord_bright" />
 </div>
 
 <div align="center">
