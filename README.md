@@ -11,8 +11,7 @@
 
 <div align="center">
 
-你好，我是 WindsLand，也是星梦<br>
-MaaFramework 社区开发者、明日方舟特种队玩家<br>
+你好，我是 WindsLand，也是星梦。MaaFramework 社区开发者<br>
 很高兴遇见你
 
 </div>
