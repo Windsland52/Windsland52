@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Windsland52's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 19, Total Commits  (last year) : 1500, Total PRs: 188, Total Issues: 184, Contributed to (last year): 32</desc>
+        <desc id="descId">Total Stars Earned: 19, Total Commits  (last year) : 1522, Total PRs: 188, Total Issues: 184, Contributed to (last year): 32</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 73.6093798724673;
+        stroke-dashoffset: 73.57065065040085;
       }
     }
   
