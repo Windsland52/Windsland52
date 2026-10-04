@@ -48,6 +48,7 @@ jobs:
         run: |
           mkdir -p profile
           cp profile-summary-card-output/nord_bright/4-productive-time.svg profile/productive-time.svg
+          cp profile-summary-card-output/nord_bright/0-profile-details.svg profile/profile-details.svg || echo "profile-details card not generated (skipped)"
           cp dist/snake.svg profile/snake.svg
           git rm --cached --ignore-unmatch profile/top-langs.svg profile/pin-readme-tools-github-readme-stats.svg
           rm -f profile/top-langs.svg profile/pin-readme-tools-github-readme-stats.svg
