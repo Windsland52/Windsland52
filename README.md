@@ -24,14 +24,16 @@ MaaFramework 生态贡献者 · [📖 我的博客](https://windsland52.github.i
 | [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) `贡献` | 基于图像识别的自动化黑盒测试框架 |
 | [MistEO/MXU](https://github.com/MistEO/MXU) `贡献` | MaaFramework Next UI |
 | [MaaXYZ/MFAAvalonia](https://github.com/MaaXYZ/MFAAvalonia) `贡献` | 基于 Avalonia 的 MAAFramework 通用 GUI 项目 |
+| [Aliothmoon/MaaFwApp](https://github.com/Aliothmoon/MaaFwApp) `贡献` | MaaFramework 的通用 Android GUI |
 
 ## 🛠 开发者工具
 
 | 项目 | 项目简介 |
 | --- | --- |
-| [create-maa-project](https://github.com/Windsland52/create-maa-project) `作者` | MaaFW 项目脚手架 CLI & MCP Server，交互式创建与增量维护 Pipeline / Agent 项目 |
-| [MaaXYZ/MaaLogAnalyzer](https://github.com/MaaXYZ/MaaLogAnalyzer) `作者` | MaaFramework 可视化日志分析工具 |
+| [maafw-live](https://github.com/Windsland52/maafw-live) `作者` | 给 AI agent 的 MaaFW 实时观测与设备交互底座：帧流 / 变化检测 / 环形缓冲，识别参数实测 |
 | [neko-para/maa-support-extension](https://github.com/neko-para/maa-support-extension) `贡献` | MaaFramework 的 VS Code 支持插件 |
+| [MaaXYZ/MaaLogAnalyzer](https://github.com/MaaXYZ/MaaLogAnalyzer) `作者` | MaaFramework 可视化日志分析工具 |
+| [create-maa-project](https://github.com/Windsland52/create-maa-project) `作者` | MaaFW 项目脚手架 CLI & MCP Server，交互式创建与增量维护 Pipeline / Agent 项目 |
 | [MaaEvidenceKit](https://github.com/Windsland52/MaaEvidenceKit) `作者` | 面向 MaaFramework 的确定性证据提取与诊断辅助工具包 |
 | [maa-support-sublime](https://github.com/Windsland52/maa-support-sublime) `作者` | MaaFramework pipeline language support for Sublime Text |
 
@@ -45,8 +47,8 @@ MaaFramework 生态贡献者 · [📖 我的博客](https://windsland52.github.i
 
 | 项目 | 项目简介 |
 | --- | --- |
+| [MaaTutorial](https://github.com/Windsland52/MaaTutorial) `作者` | MaaFW 应用开发入门教程站，并提供一套开发态 Agent Skills |
 | [MaaLLMWiki](https://github.com/Windsland52/MaaLLMWiki) `作者` | MaaLLMWiki 为 Maa 生态知识提供机器可读、版本化的源目录 |
-| [MaaTutorial](https://github.com/Windsland52/MaaTutorial) `作者` | MaaFramework 应用开发入门教程站 |
 
 ## 📊 GitHub 数据
 
